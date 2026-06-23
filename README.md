@@ -40,7 +40,7 @@ Responsive design, dark mode support, animated statistics, testimonials, FAQ sec
 
 ### Features Section
 
-![Features](features,jpeg)
+![Features](features.jpeg)
 
 ### About Section
 
