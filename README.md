@@ -36,23 +36,23 @@ Responsive design, dark mode support, animated statistics, testimonials, FAQ sec
 
 ### Hero Section
 
-![Hero](hero-section.png)
+![Hero](home_page.jpeg)
 
 ### Features Section
 
-![Features](features-section.png)
+![Features](features,jpeg)
 
 ### About Section
 
-![About](about-section.png)
+![About](about.jpeg)
 
 ### Testimonials
 
-![Testimonials](testimonials-section.png)
+![Testimonials](testimonials.jpeg)
 
 ### FAQ Section
 
-![FAQ](faq-section.png)
+![FAQ](faq.jpeg)
 
 ---
 
